@@ -1,4 +1,4 @@
-COURSE LIST
+<b>COURSE LIST</b>
 
 # Contents
 
@@ -8,7 +8,8 @@ COURSE LIST
 
 # Summary
 
-Since a lot of people have been asking me to give them tips regarding how to get "better" at Computer Science + Programming, I decided to make a curated list. 
+Since a lot of people have been asking me to give them tips regarding how to get "better" at Computer Science + Programming, I decided to make a curated list.
+
 This is a list of courses, me - reikdas have personally gone through(atleast some of it) and feel could be helpful to a person. These also include paid courses/resources.
 
 
@@ -25,6 +26,6 @@ This is a list of courses, me - reikdas have personally gone through(atleast som
 
 ## Machine Learning
 
-[Deep Learning A-Z™: Hands-On Artificial Neural Networks] (https://www.udemy.com/deeplearning/learn/v4/content)
+[Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://www.udemy.com/deeplearning/learn/v4/content)
 
 
