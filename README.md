@@ -1,4 +1,4 @@
-<b>COURSE LIST</b>
+<b>RESOURCE LIST</b>
 
 # Contents
 
@@ -21,6 +21,7 @@ I have heard a lot of people say that one should familiarise themselves with Lin
 
 - [Introductory](#introductory)
 - [Functional Programming](#functional-programming)
+- [Linux Kernel Development](#linux-kernel-development)
 
 ---
 
@@ -31,6 +32,11 @@ I have heard a lot of people say that one should familiarise themselves with Lin
 ## Functional Programming
 
 What is functional programming? - [Anouk Ruhaak – Get started with Functional Programming | otsconf 2015](https://www.youtube.com/watch?v=6f5dt923FmQ)
+
+## Linux Kernel Development
+
+[Matthew Garrett - Writing an ACPI driver - an introduction](https://lwn.net/Articles/367630/)  
+[Corentin Chary - Writing a WMI driver - an introduction](https://lwn.net/Articles/391230/)
 
 
 
