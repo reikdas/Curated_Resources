@@ -37,6 +37,7 @@ I have heard a lot of people say that one should familiarise themselves with Lin
 ### C++
 
 Basic familiarization - [Hackerrank](https://www.hackerrank.com/domains/cpp?badge_type=cpp)  
+[Properly create arrays](https://www.geeksforgeeks.org/dynamically-allocate-2d-array-c/)  
 [Linking](https://github.com/DarkStar1997/dasayan05.github.io/blob/cpp_linking/_posts/blog-tut/2019-01-03-linking-in-c%2B%2B.md)
 
 ## Functional Programming
