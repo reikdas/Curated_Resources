@@ -21,6 +21,8 @@ I have heard a lot of people say that one should familiarise themselves with Lin
 
 - [Introductory](#introductory)
 - [Functional Programming](#functional-programming)
+- [Programming Languages](#programming-languages)
+    - [C++](#c)
 - [Linux Kernel Development](#linux-kernel-development)
 - [Miscellaneous](#miscellaneous)
 
@@ -29,6 +31,13 @@ I have heard a lot of people say that one should familiarise themselves with Lin
 ## Introductory
 
 [Introduction to Computer Science - CS50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
+
+## Programming Languages
+
+### C++
+
+Basic familiarization - [Hackerrank](https://www.hackerrank.com/domains/cpp?badge_type=cpp)  
+[Linking](https://github.com/DarkStar1997/dasayan05.github.io/blob/cpp_linking/_posts/blog-tut/2019-01-03-linking-in-c%2B%2B.md)
 
 ## Functional Programming
 
