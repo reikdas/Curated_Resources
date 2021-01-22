@@ -57,7 +57,8 @@ What is functional programming? - [Anouk Ruhaak – Get started with Functional 
 
 #### Python
 
-Understanding the Python AST - [Emily Morhouse - The AST and Me | PyCon 2018](https://www.youtube.com/watch?v=XhWvz4dK4ng)
+Understanding the Python AST - [Emily Morhouse - The AST and Me | PyCon 2018](https://www.youtube.com/watch?v=XhWvz4dK4ng)   
+Advanced Python concepts - [Henry Schreiner's Course - Level Up Your Python](https://henryiii.github.io/level-up-your-python/notebooks/0%20Intro.html)
 
 #### Standard ML
 
@@ -71,6 +72,7 @@ University of Washington - Programming Languages, Part B ([Coursera](https://www
 
 [Programming Languages: Application and Interpretation](https://www.plai.org/)  
 Writing an interpreter in Python - [Alex Gaynor - So you want to write an interpreter? | PyCon 2013](https://www.youtube.com/watch?v=LCslqgM48D4&t=408s)  
+[Crafting Interpreters](https://craftinginterpreters.com/)
 
 ### Type Theory
 
